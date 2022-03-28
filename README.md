@@ -20,7 +20,7 @@ http://www.rainbowdao.io/project
 
 
 Project demo website:
-https://mswallet.rainbowdao.io/
+https://mswallet.rainbowdao.io/#/myMultiSign
 
 
 
