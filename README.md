@@ -1,5 +1,3 @@
-
-
 ## 1.Project name
 
 DAO Multi-Signature Wallet System
@@ -17,27 +15,17 @@ RainbowCity Foundation
 Submission address directory:
 http://www.rainbowdao.io/project
 
-
-
 Project demo website:
 https://mswallet.rainbowdao.io/#/myMultiSign
-
-
 
 GitHub repository :
 https://github.com/RainbowDAO/04-DAO-Multi-Signature-Wallet
 
-
-
 Solidity-Version-contract (GitHub):
 https://github.com/RainbowDAO/04-DAO-Multi-Signature-Wallet/tree/main/Solidity-contract
 
-
-
 Frontend code (GitHub):
 https://github.com/RainbowDAO/04-DAO-Multi-Signature-Wallet/tree/main/Front-end
-
-
 
 Picture (GitHub):
 https://github.com/RainbowDAO/04-DAO-Multi-Signature-Wallet/tree/main/PIC
@@ -50,18 +38,25 @@ https://youtu.be/KZ2elgtOdhU
 
 ## 6.Testnet Deployment Information
 
+#### 1.BNB Test
 
+Network Name: BNB Test Network
+RPC URL: https://data-seed-prebsc-1-s1.binance.org:8545/
+
+Contract deployment address
+
+Creator:
+0xb65daA181D320Eae638C8e71087e7e7C5c00db1b
+
+#### 2.Rinkeby Test
 
 Network Name: Rinkeby Test Network
 RPC URL: https://rinkeby.infura.io/v3/
-
-
 
 Contract deployment address
 
 Creator:
 0xd6BC386d072e04f2119f1Bca3bB6F61E6B0920D7
-
 
 
 Frontend docs:
